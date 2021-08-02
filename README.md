@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Adedapoxlns
-- 👀 I’m interested in Data Science placements
-- 🌱 I’m currently learning MSc Data Science (Python, Data Analysis and Visualisation techniques, Machine Learning, Ethical Data and AI.
-- 💞️ I’m looking to collaborate on data analysis, data science related projects.
+- 👋 Hi, I am @Adedapoxlns
+- 👀 I am interested in Data Science placements
+- 🌱 I am currently studying MSc Data Science at the University of Gloucestershire (Python, Data Analysis and Visualisation techniques, Machine Learning, Ethical Data and AI.
+- 💞️ I am looking to collaborate on data analysis, data science related projects.
 - 📫 How to reach me is via email Adedapoxlns@gmail.com.
 
 <!---
